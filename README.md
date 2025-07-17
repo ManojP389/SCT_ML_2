@@ -30,7 +30,7 @@ This machine learning project uses the **K-Means clustering** algorithm to group
 
 - 5 distinct customer groups visualized on a 2D scatter plot based on income vs. spending.
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python  
 - Pandas, NumPy  
